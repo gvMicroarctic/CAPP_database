@@ -23,7 +23,7 @@ The General information associated to each CAPP entry can be downloaded from htt
 - MAG : MAG associated to the CAPP entry; if the entry was not annotated from any MAG, this field's value is 'no'
 - cDNA_match : this field is 'yes' if at least one cDNA read is associated to the CAPP entry; this field is 'no' if no cDNA reads were associated to the CAPP entry
 - nr_dataset : nr sequences associated to the CAPP entry; if the entry was not similar to any nr sequence, this field value is 'no'
-- 
+
 ### Geochemical data associated to each CAPP entry
 
 The geochemical data associated to each CAPP entry can be downloaded from https://www.cerealsdb.uk.net/CAPP/CAPP_db_geo.txt.gz. This file reports for each CAPP entry that was found expressed in the environmental samples (i.e. present in the cDNA libraries), the ranges of values associated to those samples for each of the measured geochemical variables. The txt file reports the following information:
