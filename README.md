@@ -1,6 +1,6 @@
 # CAPP database
 
-The Cold-Adapted Predicted Protein (CAPP) database is a database of predicted proteins. These proteins were annotated from a high-quality assembly recontructed from Nanopore and Illumina sequences from frozen soil microbial communities sampled in the Greenland Ice Sheet foreland in the proximity of Kangerlussuaq. The CAPP database accounts of 3,076,838 entries. For more information about the database please refer to Varliero et al (in Review).
+The Cold-Adapted Predicted Protein (CAPP) database is a database of predicted proteins. These proteins were annotated from a high-quality assembly recontructed from Nanopore and Illumina sequences from frozen soil microbial communities sampled in the Greenland Ice Sheet foreland in the proximity of Kangerlussuaq. The CAPP database accounts of 3,076,838 entries. For more information about the database please refer to Varliero et al. 2021 (https://doi.org/10.1093/femsec/fiab127).
 
 ### Cold-Adapted Predicted Proteins
 
